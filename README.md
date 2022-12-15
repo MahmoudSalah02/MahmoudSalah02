@@ -8,4 +8,4 @@ I'm Mahmoud, a 3rd-year Computer Science student at Brandeis University. I'm cur
 
 - [Cup of Joy](https://github.com/MahmoudSalah02/Cup-of-Joy): RESTful API for a Cafe that allows employees to take customers' orders 
 
-- [RoomFinder](https://wavechat.tech): a web app that assists students in the housing selection process at Brandeis
+- [RoomFinder](https://github.com/MahmoudSalah02/RoomFinder): a web app that assists students in the housing selection process at Brandeis
